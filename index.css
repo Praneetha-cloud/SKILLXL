@@ -1,0 +1,37 @@
+.example{
+    color:white;
+    position: absolute;
+    left: 88%;
+    top: 13%
+}
+.ex{
+    color:whitesmoke;
+    position: absolute;
+    left: 93%;
+    top: 13%
+}
+b{
+    color:white;
+}
+body{
+    background-color: rgb(1, 1, 35);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family:'Arial', sans-serif;
+}
+h1{
+    height: 100vh;
+    display: flex;
+    color:white;
+    font-size: 300px;
+    letter-spacing: 5px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family:'Arial', sans-serif;
+}
